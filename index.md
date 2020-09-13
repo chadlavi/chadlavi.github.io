@@ -1,6 +1,7 @@
+## Links
+* [Bug prioritizer](/severity)
+* [Turnip calc](/turnip)
+* [You should...](/random-jar)
 * [clear](/clear)
-* [random activity jar](/random-jar)
 * [recipes](/recipes)
-* [severity](/severity)
 * [sourdough calculator](/sourdough-converter)
-* [turnips](/turnips)
